@@ -1,0 +1,61 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
+
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Large dataset files
+data/raw/
+data/videos/
+data/processed/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Model files
+models/
+saved_models/
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Logs and training outputs
+runs/
+logs/
+wandb/
+mlruns/
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+
+kaggle.json
+
