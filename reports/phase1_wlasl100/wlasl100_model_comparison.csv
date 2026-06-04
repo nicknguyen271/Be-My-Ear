@@ -1,0 +1,4 @@
+dataset,model,clean_samples,classes,input_shape,velocity_features,best_val_f1,best_val_top5,checkpoint_epoch,test_top1_accuracy,test_top3_accuracy,test_top5_accuracy,test_macro_f1,notes
+WLASL100,Baseline BiLSTM,1013,100,"(60, 258)",False,0.0115,,17,,,,,Initial baseline. Very low performance; used to validate the end-to-end pipeline.
+WLASL100,BiGRU + Temporal Attention,1013,100,"(60, 516)",True,0.4723333333333332,0.8220833301544189,45,0.430379746835443,0.7088607594936709,0.7911392405063291,0.3855238095238095,Best WLASL100 model so far. Strong Top-5 and stable improvement over baseline.
+WLASL100,Small Transformer Encoder,1013,100,"(60, 516)",True,0.3740476190476189,0.759166669845581,59,0.3354430379746835,0.6012658227848101,0.6708860759493671,0.283,"Useful comparison model, but weaker than BiGRU on WLASL100."
