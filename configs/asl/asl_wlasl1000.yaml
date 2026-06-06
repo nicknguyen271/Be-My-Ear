@@ -1,0 +1,40 @@
+language_code: ASL
+language_name: American Sign Language
+
+dataset:
+  name: WLASL1000
+  raw_path: data/raw/ASL/WLASL1000
+  metadata_file: data/raw/ASL/WLASL1000/nslt_1000.json
+  class_list_file: data/raw/ASL/WLASL1000/wlasl_class_list.txt
+  videos_path: data/raw/ASL/videos
+
+  processed_path: data/processed/ASL/WLASL1000
+  keypoints_path: data/processed/ASL/WLASL1000/keypoints
+  video_index: data/processed/ASL/WLASL1000/wlasl1000_video_index.csv
+  keypoint_index: data/processed/ASL/WLASL1000/wlasl1000_keypoint_index.csv
+  clean_index: data/processed/ASL/WLASL1000/wlasl1000_clean_keypoint_index.csv
+
+  label_map: data/label_maps/WLASL1000/asl_wlasl1000_labels.json
+
+model:
+  selected_architecture: BiGRU_Temporal_Attention
+  input_type: mediapipe_keypoints_with_velocity
+  sequence_length: 60
+  original_feature_size: 258
+  final_feature_size: 516
+  hidden_size: 256
+  num_layers: 2
+  dropout: 0.4
+  num_classes: 1000
+
+training:
+  batch_size: 32
+  epochs: 60
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+  early_stopping_patience: 15
+  confidence_threshold: 0.50
+
+output:
+  model_dir: models/ASL/WLASL1000
+  report_dir: reports/phase1_wlasl1000
