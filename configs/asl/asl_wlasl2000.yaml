@@ -1,0 +1,90 @@
+project:
+  name: Be_My_Ear
+  task: ASL isolated sign recognition
+  phase: Phase 1 - WLASL2000 main model
+
+dataset:
+  name: WLASL2000
+  language: ASL
+  prefix: wlasl2000
+  num_classes: 2000
+
+paths:
+  project_root: E:/Be_My_Ear
+  raw_dir: E:/Be_My_Ear/data/raw/ASL/WLASL2000
+  videos_dir: E:/Be_My_Ear/data/raw/ASL/videos
+  metadata_file: E:/Be_My_Ear/data/raw/ASL/WLASL2000/nslt_2000.json
+  class_list_file: E:/Be_My_Ear/data/raw/ASL/WLASL2000/wlasl_class_list.txt
+
+  processed_dir: E:/Be_My_Ear/data/processed/ASL/WLASL2000
+  keypoint_dir: E:/Be_My_Ear/data/processed/ASL/WLASL2000/keypoints
+
+  video_index_file: E:/Be_My_Ear/data/processed/ASL/WLASL2000/wlasl2000_video_index.csv
+  keypoint_index_file: E:/Be_My_Ear/data/processed/ASL/WLASL2000/wlasl2000_keypoint_index.csv
+  clean_keypoint_index_file: E:/Be_My_Ear/data/processed/ASL/WLASL2000/wlasl2000_clean_keypoint_index.csv
+  failed_keypoint_file: E:/Be_My_Ear/data/processed/ASL/WLASL2000/wlasl2000_failed_keypoint_extraction.csv
+  quality_report_file: E:/Be_My_Ear/data/processed/ASL/WLASL2000/wlasl2000_keypoint_quality_report.csv
+  low_sample_class_file: E:/Be_My_Ear/data/processed/ASL/WLASL2000/wlasl2000_low_sample_classes.csv
+
+  label_map_dir: E:/Be_My_Ear/data/label_maps/WLASL2000
+  label_map_file: E:/Be_My_Ear/data/label_maps/WLASL2000/asl_wlasl2000_labels.json
+
+  model_dir: E:/Be_My_Ear/models/ASL/WLASL2000
+  report_dir: E:/Be_My_Ear/reports/phase1_wlasl2000
+
+model:
+  selected_architecture: BiGRUAttentionLightV2
+  input_type: MediaPipe Holistic keypoints + velocity
+  sequence_length: 60
+  base_feature_size: 258
+  velocity_features: true
+  input_size: 516
+  hidden_size: 320
+  num_layers: 2
+  dropout: 0.35
+
+training:
+  batch_size: 16
+  epochs_from_scratch: 90
+  epochs_finetune: 80
+  early_stopping_patience_from_scratch: 18
+  early_stopping_patience_finetune: 16
+  learning_rate_from_scratch: 0.0002
+  learning_rate_finetune: 0.0001
+  weight_decay: 0.0001
+  label_smoothing: 0.05
+  gradient_clip_norm: 1.0
+  use_weighted_sampler: true
+  safe_low_sample_split: true
+
+preprocessing:
+  mediapipe_solution: holistic
+  sequence_length: 60
+  left_hand_features: 63
+  right_hand_features: 63
+  pose_features: 132
+  total_base_features: 258
+  zero_ratio_threshold: 0.95
+  model_complexity: 1
+  min_detection_confidence: 0.5
+  min_tracking_confidence: 0.5
+
+augmentation:
+  use_train_augmentation: true
+  noise_std: 0.005
+  frame_mask_prob: 0.03
+  temporal_shift_max: 2
+
+transfer_learning:
+  use_wlasl1000_checkpoint: true
+  source_checkpoint: E:/Be_My_Ear/models/ASL/WLASL1000/bigru_attention_light_v2_wlasl1000.pt
+  strategy: load compatible layers and replace final classifier output layer
+
+deployment:
+  main_candidate: WLASL2000 Light V2 fine-tuned from WLASL1000
+  selected_model_output: E:/Be_My_Ear/app/models/ASL/WLASL2000/selected_wlasl2000_model.pt
+  deployment_config: E:/Be_My_Ear/app/models/ASL/WLASL2000/wlasl2000_deployment_config.json
+  speak_top1_threshold: 0.70
+  show_top5_min_threshold: 0.40
+  ask_to_repeat_below: 0.40
+  output_top_k: 5
