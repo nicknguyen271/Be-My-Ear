@@ -1,0 +1,34 @@
+{
+    "timestamp": "20260607_173307",
+    "model": "WLASL2000 Light V2 Fine-tuned From WLASL1000",
+    "screen_region": {
+        "left": 61,
+        "top": 210,
+        "width": 1265,
+        "height": 707
+    },
+    "accepted_signs": [
+        "bear",
+        "bird",
+        "egypt",
+        "dolphin",
+        "north",
+        "fox",
+        "frog",
+        "giraffe"
+    ],
+    "auto_understanding_output": "bear bird egypt dolphin north fox frog giraffe",
+    "rules": {
+        "mode": "auto_understanding_with_uncertainty",
+        "auto_accept_confidence": 0.45,
+        "uncertain_min_confidence": 0.25,
+        "reject_below": 0.25,
+        "top1_top2_margin": 0.05,
+        "stability_window_count": 3,
+        "min_repeated_predictions": 2,
+        "output_top_k": 5,
+        "auto_speak_only_if_stable": true,
+        "show_uncertainty_message": true
+    },
+    "predict_every_n_frames": 8
+}

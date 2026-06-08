@@ -1,0 +1,3 @@
+version,model,test_top1_accuracy,test_top3_accuracy,test_top5_accuracy,test_macro_f1,best_val_f1,best_val_top5,source
+V1,BiGRU + Temporal Attention,0.3594842667763049,0.5828234278238736,0.6737325191497803,0.2969206349206349,0.3555396825396825,0.7239947548279395,E:\Be_My_Ear\models\ASL\WLASL300\bigru_attention_wlasl300_result_summary.csv
+V2,BiGRU + Multi-Pooling Attention V2,0.29620253164556964,0.46835443037974683,0.5443037974683544,0.2396931216931217,0.29069047619047617,0.5844474136829376,E:\Be_My_Ear\models\ASL\WLASL300\bigru_attention_v2_wlasl300_result_summary.csv

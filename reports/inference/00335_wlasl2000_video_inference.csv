@@ -1,0 +1,2 @@
+window_id,start_frame,end_frame,status,stable,top1_gloss,confidence,margin,message,top5_glosses,top5_probabilities
+0,0,57,accepted,True,abdomen,0.9482936859130859,0.9263796750456095,Detected sign: abdomen,"abdomen, stomach, disgust, hungry, late","0.9483, 0.0219, 0.0034, 0.0025, 0.0015"

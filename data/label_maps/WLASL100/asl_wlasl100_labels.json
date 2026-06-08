@@ -1,0 +1,602 @@
+{
+    "0": {
+        "language": "ASL",
+        "gloss": "accident",
+        "display_text": "accident",
+        "original_class_id": 51
+    },
+    "1": {
+        "language": "ASL",
+        "gloss": "africa",
+        "display_text": "africa",
+        "original_class_id": 76
+    },
+    "2": {
+        "language": "ASL",
+        "gloss": "all",
+        "display_text": "all",
+        "original_class_id": 18
+    },
+    "3": {
+        "language": "ASL",
+        "gloss": "apple",
+        "display_text": "apple",
+        "original_class_id": 52
+    },
+    "4": {
+        "language": "ASL",
+        "gloss": "basketball",
+        "display_text": "basketball",
+        "original_class_id": 77
+    },
+    "5": {
+        "language": "ASL",
+        "gloss": "bed",
+        "display_text": "bed",
+        "original_class_id": 32
+    },
+    "6": {
+        "language": "ASL",
+        "gloss": "before",
+        "display_text": "before",
+        "original_class_id": 3
+    },
+    "7": {
+        "language": "ASL",
+        "gloss": "bird",
+        "display_text": "bird",
+        "original_class_id": 53
+    },
+    "8": {
+        "language": "ASL",
+        "gloss": "birthday",
+        "display_text": "birthday",
+        "original_class_id": 78
+    },
+    "9": {
+        "language": "ASL",
+        "gloss": "black",
+        "display_text": "black",
+        "original_class_id": 19
+    },
+    "10": {
+        "language": "ASL",
+        "gloss": "blue",
+        "display_text": "blue",
+        "original_class_id": 33
+    },
+    "11": {
+        "language": "ASL",
+        "gloss": "book",
+        "display_text": "book",
+        "original_class_id": 0
+    },
+    "12": {
+        "language": "ASL",
+        "gloss": "bowling",
+        "display_text": "bowling",
+        "original_class_id": 34
+    },
+    "13": {
+        "language": "ASL",
+        "gloss": "brown",
+        "display_text": "brown",
+        "original_class_id": 79
+    },
+    "14": {
+        "language": "ASL",
+        "gloss": "but",
+        "display_text": "but",
+        "original_class_id": 80
+    },
+    "15": {
+        "language": "ASL",
+        "gloss": "can",
+        "display_text": "can",
+        "original_class_id": 35
+    },
+    "16": {
+        "language": "ASL",
+        "gloss": "candy",
+        "display_text": "candy",
+        "original_class_id": 8
+    },
+    "17": {
+        "language": "ASL",
+        "gloss": "chair",
+        "display_text": "chair",
+        "original_class_id": 4
+    },
+    "18": {
+        "language": "ASL",
+        "gloss": "change",
+        "display_text": "change",
+        "original_class_id": 54
+    },
+    "19": {
+        "language": "ASL",
+        "gloss": "cheat",
+        "display_text": "cheat",
+        "original_class_id": 81
+    },
+    "20": {
+        "language": "ASL",
+        "gloss": "city",
+        "display_text": "city",
+        "original_class_id": 82
+    },
+    "21": {
+        "language": "ASL",
+        "gloss": "clothes",
+        "display_text": "clothes",
+        "original_class_id": 6
+    },
+    "22": {
+        "language": "ASL",
+        "gloss": "color",
+        "display_text": "color",
+        "original_class_id": 55
+    },
+    "23": {
+        "language": "ASL",
+        "gloss": "computer",
+        "display_text": "computer",
+        "original_class_id": 2
+    },
+    "24": {
+        "language": "ASL",
+        "gloss": "cook",
+        "display_text": "cook",
+        "original_class_id": 83
+    },
+    "25": {
+        "language": "ASL",
+        "gloss": "cool",
+        "display_text": "cool",
+        "original_class_id": 20
+    },
+    "26": {
+        "language": "ASL",
+        "gloss": "corn",
+        "display_text": "corn",
+        "original_class_id": 56
+    },
+    "27": {
+        "language": "ASL",
+        "gloss": "cousin",
+        "display_text": "cousin",
+        "original_class_id": 9
+    },
+    "28": {
+        "language": "ASL",
+        "gloss": "cow",
+        "display_text": "cow",
+        "original_class_id": 57
+    },
+    "29": {
+        "language": "ASL",
+        "gloss": "dance",
+        "display_text": "dance",
+        "original_class_id": 58
+    },
+    "30": {
+        "language": "ASL",
+        "gloss": "dark",
+        "display_text": "dark",
+        "original_class_id": 59
+    },
+    "31": {
+        "language": "ASL",
+        "gloss": "deaf",
+        "display_text": "deaf",
+        "original_class_id": 10
+    },
+    "32": {
+        "language": "ASL",
+        "gloss": "decide",
+        "display_text": "decide",
+        "original_class_id": 84
+    },
+    "33": {
+        "language": "ASL",
+        "gloss": "doctor",
+        "display_text": "doctor",
+        "original_class_id": 60
+    },
+    "34": {
+        "language": "ASL",
+        "gloss": "dog",
+        "display_text": "dog",
+        "original_class_id": 36
+    },
+    "35": {
+        "language": "ASL",
+        "gloss": "drink",
+        "display_text": "drink",
+        "original_class_id": 1
+    },
+    "36": {
+        "language": "ASL",
+        "gloss": "eat",
+        "display_text": "eat",
+        "original_class_id": 61
+    },
+    "37": {
+        "language": "ASL",
+        "gloss": "enjoy",
+        "display_text": "enjoy",
+        "original_class_id": 62
+    },
+    "38": {
+        "language": "ASL",
+        "gloss": "family",
+        "display_text": "family",
+        "original_class_id": 37
+    },
+    "39": {
+        "language": "ASL",
+        "gloss": "fine",
+        "display_text": "fine",
+        "original_class_id": 11
+    },
+    "40": {
+        "language": "ASL",
+        "gloss": "finish",
+        "display_text": "finish",
+        "original_class_id": 21
+    },
+    "41": {
+        "language": "ASL",
+        "gloss": "fish",
+        "display_text": "fish",
+        "original_class_id": 38
+    },
+    "42": {
+        "language": "ASL",
+        "gloss": "forget",
+        "display_text": "forget",
+        "original_class_id": 63
+    },
+    "43": {
+        "language": "ASL",
+        "gloss": "full",
+        "display_text": "full",
+        "original_class_id": 85
+    },
+    "44": {
+        "language": "ASL",
+        "gloss": "give",
+        "display_text": "give",
+        "original_class_id": 64
+    },
+    "45": {
+        "language": "ASL",
+        "gloss": "go",
+        "display_text": "go",
+        "original_class_id": 5
+    },
+    "46": {
+        "language": "ASL",
+        "gloss": "graduate",
+        "display_text": "graduate",
+        "original_class_id": 39
+    },
+    "47": {
+        "language": "ASL",
+        "gloss": "hat",
+        "display_text": "hat",
+        "original_class_id": 40
+    },
+    "48": {
+        "language": "ASL",
+        "gloss": "hearing",
+        "display_text": "hearing",
+        "original_class_id": 41
+    },
+    "49": {
+        "language": "ASL",
+        "gloss": "help",
+        "display_text": "help",
+        "original_class_id": 12
+    },
+    "50": {
+        "language": "ASL",
+        "gloss": "hot",
+        "display_text": "hot",
+        "original_class_id": 22
+    },
+    "51": {
+        "language": "ASL",
+        "gloss": "how",
+        "display_text": "how",
+        "original_class_id": 86
+    },
+    "52": {
+        "language": "ASL",
+        "gloss": "jacket",
+        "display_text": "jacket",
+        "original_class_id": 87
+    },
+    "53": {
+        "language": "ASL",
+        "gloss": "kiss",
+        "display_text": "kiss",
+        "original_class_id": 42
+    },
+    "54": {
+        "language": "ASL",
+        "gloss": "language",
+        "display_text": "language",
+        "original_class_id": 43
+    },
+    "55": {
+        "language": "ASL",
+        "gloss": "last",
+        "display_text": "last",
+        "original_class_id": 65
+    },
+    "56": {
+        "language": "ASL",
+        "gloss": "later",
+        "display_text": "later",
+        "original_class_id": 44
+    },
+    "57": {
+        "language": "ASL",
+        "gloss": "letter",
+        "display_text": "letter",
+        "original_class_id": 88
+    },
+    "58": {
+        "language": "ASL",
+        "gloss": "like",
+        "display_text": "like",
+        "original_class_id": 23
+    },
+    "59": {
+        "language": "ASL",
+        "gloss": "man",
+        "display_text": "man",
+        "original_class_id": 45
+    },
+    "60": {
+        "language": "ASL",
+        "gloss": "many",
+        "display_text": "many",
+        "original_class_id": 24
+    },
+    "61": {
+        "language": "ASL",
+        "gloss": "medicine",
+        "display_text": "medicine",
+        "original_class_id": 89
+    },
+    "62": {
+        "language": "ASL",
+        "gloss": "meet",
+        "display_text": "meet",
+        "original_class_id": 66
+    },
+    "63": {
+        "language": "ASL",
+        "gloss": "mother",
+        "display_text": "mother",
+        "original_class_id": 25
+    },
+    "64": {
+        "language": "ASL",
+        "gloss": "need",
+        "display_text": "need",
+        "original_class_id": 90
+    },
+    "65": {
+        "language": "ASL",
+        "gloss": "no",
+        "display_text": "no",
+        "original_class_id": 13
+    },
+    "66": {
+        "language": "ASL",
+        "gloss": "now",
+        "display_text": "now",
+        "original_class_id": 26
+    },
+    "67": {
+        "language": "ASL",
+        "gloss": "orange",
+        "display_text": "orange",
+        "original_class_id": 27
+    },
+    "68": {
+        "language": "ASL",
+        "gloss": "paint",
+        "display_text": "paint",
+        "original_class_id": 91
+    },
+    "69": {
+        "language": "ASL",
+        "gloss": "paper",
+        "display_text": "paper",
+        "original_class_id": 92
+    },
+    "70": {
+        "language": "ASL",
+        "gloss": "pink",
+        "display_text": "pink",
+        "original_class_id": 67
+    },
+    "71": {
+        "language": "ASL",
+        "gloss": "pizza",
+        "display_text": "pizza",
+        "original_class_id": 68
+    },
+    "72": {
+        "language": "ASL",
+        "gloss": "play",
+        "display_text": "play",
+        "original_class_id": 69
+    },
+    "73": {
+        "language": "ASL",
+        "gloss": "pull",
+        "display_text": "pull",
+        "original_class_id": 93
+    },
+    "74": {
+        "language": "ASL",
+        "gloss": "purple",
+        "display_text": "purple",
+        "original_class_id": 94
+    },
+    "75": {
+        "language": "ASL",
+        "gloss": "right",
+        "display_text": "right",
+        "original_class_id": 95
+    },
+    "76": {
+        "language": "ASL",
+        "gloss": "same",
+        "display_text": "same",
+        "original_class_id": 96
+    },
+    "77": {
+        "language": "ASL",
+        "gloss": "school",
+        "display_text": "school",
+        "original_class_id": 70
+    },
+    "78": {
+        "language": "ASL",
+        "gloss": "secretary",
+        "display_text": "secretary",
+        "original_class_id": 71
+    },
+    "79": {
+        "language": "ASL",
+        "gloss": "shirt",
+        "display_text": "shirt",
+        "original_class_id": 46
+    },
+    "80": {
+        "language": "ASL",
+        "gloss": "short",
+        "display_text": "short",
+        "original_class_id": 72
+    },
+    "81": {
+        "language": "ASL",
+        "gloss": "son",
+        "display_text": "son",
+        "original_class_id": 97
+    },
+    "82": {
+        "language": "ASL",
+        "gloss": "study",
+        "display_text": "study",
+        "original_class_id": 47
+    },
+    "83": {
+        "language": "ASL",
+        "gloss": "table",
+        "display_text": "table",
+        "original_class_id": 28
+    },
+    "84": {
+        "language": "ASL",
+        "gloss": "tall",
+        "display_text": "tall",
+        "original_class_id": 48
+    },
+    "85": {
+        "language": "ASL",
+        "gloss": "tell",
+        "display_text": "tell",
+        "original_class_id": 98
+    },
+    "86": {
+        "language": "ASL",
+        "gloss": "thanksgiving",
+        "display_text": "thanksgiving",
+        "original_class_id": 29
+    },
+    "87": {
+        "language": "ASL",
+        "gloss": "thin",
+        "display_text": "thin",
+        "original_class_id": 14
+    },
+    "88": {
+        "language": "ASL",
+        "gloss": "thursday",
+        "display_text": "thursday",
+        "original_class_id": 99
+    },
+    "89": {
+        "language": "ASL",
+        "gloss": "time",
+        "display_text": "time",
+        "original_class_id": 73
+    },
+    "90": {
+        "language": "ASL",
+        "gloss": "walk",
+        "display_text": "walk",
+        "original_class_id": 15
+    },
+    "91": {
+        "language": "ASL",
+        "gloss": "want",
+        "display_text": "want",
+        "original_class_id": 74
+    },
+    "92": {
+        "language": "ASL",
+        "gloss": "what",
+        "display_text": "what",
+        "original_class_id": 30
+    },
+    "93": {
+        "language": "ASL",
+        "gloss": "white",
+        "display_text": "white",
+        "original_class_id": 49
+    },
+    "94": {
+        "language": "ASL",
+        "gloss": "who",
+        "display_text": "who",
+        "original_class_id": 7
+    },
+    "95": {
+        "language": "ASL",
+        "gloss": "woman",
+        "display_text": "woman",
+        "original_class_id": 31
+    },
+    "96": {
+        "language": "ASL",
+        "gloss": "work",
+        "display_text": "work",
+        "original_class_id": 75
+    },
+    "97": {
+        "language": "ASL",
+        "gloss": "wrong",
+        "display_text": "wrong",
+        "original_class_id": 50
+    },
+    "98": {
+        "language": "ASL",
+        "gloss": "year",
+        "display_text": "year",
+        "original_class_id": 16
+    },
+    "99": {
+        "language": "ASL",
+        "gloss": "yes",
+        "display_text": "yes",
+        "original_class_id": 17
+    }
+}

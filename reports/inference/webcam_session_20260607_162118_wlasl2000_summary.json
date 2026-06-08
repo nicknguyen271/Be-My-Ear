@@ -1,0 +1,20 @@
+{
+    "timestamp": "20260607_162118",
+    "model": "WLASL2000 Light V2 Fine-tuned From WLASL1000",
+    "accepted_signs": [],
+    "auto_understanding_output": "",
+    "rules": {
+        "mode": "auto_understanding_with_uncertainty",
+        "auto_accept_confidence": 0.45,
+        "uncertain_min_confidence": 0.25,
+        "reject_below": 0.25,
+        "top1_top2_margin": 0.05,
+        "stability_window_count": 3,
+        "min_repeated_predictions": 2,
+        "output_top_k": 5,
+        "auto_speak_only_if_stable": true,
+        "show_uncertainty_message": true
+    },
+    "camera_index": 1,
+    "predict_every_n_frames": 15
+}

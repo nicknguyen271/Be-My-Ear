@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+av
+opencv-python
+mediapipe
+numpy
+pandas
+torch
+mss

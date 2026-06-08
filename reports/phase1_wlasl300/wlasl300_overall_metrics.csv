@@ -1,0 +1,2 @@
+dataset,model,clean_samples,classes,test_samples,test_top1_accuracy,test_top3_accuracy,test_top5_accuracy,test_macro_f1,best_val_f1,best_val_top5,checkpoint_epoch
+WLASL300,BiGRU + Temporal Attention,2660,300,395,0.35443037974683544,0.5848101265822785,0.6708860759493671,0.2969206349206349,0.3555396825396825,0.7239947548279395,56

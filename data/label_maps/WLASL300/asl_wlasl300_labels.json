@@ -1,0 +1,2102 @@
+{
+    "0": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "about",
+        "display_text": "about",
+        "original_class_id": 180
+    },
+    "1": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "accident",
+        "display_text": "accident",
+        "original_class_id": 51
+    },
+    "2": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "africa",
+        "display_text": "africa",
+        "original_class_id": 76
+    },
+    "3": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "again",
+        "display_text": "again",
+        "original_class_id": 139
+    },
+    "4": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "all",
+        "display_text": "all",
+        "original_class_id": 18
+    },
+    "5": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "always",
+        "display_text": "always",
+        "original_class_id": 256
+    },
+    "6": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "animal",
+        "display_text": "animal",
+        "original_class_id": 257
+    },
+    "7": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "apple",
+        "display_text": "apple",
+        "original_class_id": 52
+    },
+    "8": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "approve",
+        "display_text": "approve",
+        "original_class_id": 181
+    },
+    "9": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "argue",
+        "display_text": "argue",
+        "original_class_id": 258
+    },
+    "10": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "arrive",
+        "display_text": "arrive",
+        "original_class_id": 182
+    },
+    "11": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "baby",
+        "display_text": "baby",
+        "original_class_id": 259
+    },
+    "12": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "back",
+        "display_text": "back",
+        "original_class_id": 260
+    },
+    "13": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "backpack",
+        "display_text": "backpack",
+        "original_class_id": 105
+    },
+    "14": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bad",
+        "display_text": "bad",
+        "original_class_id": 140
+    },
+    "15": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bake",
+        "display_text": "bake",
+        "original_class_id": 261
+    },
+    "16": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "balance",
+        "display_text": "balance",
+        "original_class_id": 183
+    },
+    "17": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "ball",
+        "display_text": "ball",
+        "original_class_id": 141
+    },
+    "18": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "banana",
+        "display_text": "banana",
+        "original_class_id": 184
+    },
+    "19": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bar",
+        "display_text": "bar",
+        "original_class_id": 106
+    },
+    "20": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "basketball",
+        "display_text": "basketball",
+        "original_class_id": 77
+    },
+    "21": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bath",
+        "display_text": "bath",
+        "original_class_id": 262
+    },
+    "22": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bathroom",
+        "display_text": "bathroom",
+        "original_class_id": 142
+    },
+    "23": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "beard",
+        "display_text": "beard",
+        "original_class_id": 185
+    },
+    "24": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "because",
+        "display_text": "because",
+        "original_class_id": 186
+    },
+    "25": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bed",
+        "display_text": "bed",
+        "original_class_id": 32
+    },
+    "26": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "before",
+        "display_text": "before",
+        "original_class_id": 3
+    },
+    "27": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "behind",
+        "display_text": "behind",
+        "original_class_id": 263
+    },
+    "28": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bird",
+        "display_text": "bird",
+        "original_class_id": 53
+    },
+    "29": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "birthday",
+        "display_text": "birthday",
+        "original_class_id": 78
+    },
+    "30": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "black",
+        "display_text": "black",
+        "original_class_id": 19
+    },
+    "31": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "blanket",
+        "display_text": "blanket",
+        "original_class_id": 143
+    },
+    "32": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "blue",
+        "display_text": "blue",
+        "original_class_id": 33
+    },
+    "33": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "book",
+        "display_text": "book",
+        "original_class_id": 0
+    },
+    "34": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bowling",
+        "display_text": "bowling",
+        "original_class_id": 34
+    },
+    "35": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "boy",
+        "display_text": "boy",
+        "original_class_id": 187
+    },
+    "36": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "bring",
+        "display_text": "bring",
+        "original_class_id": 264
+    },
+    "37": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "brother",
+        "display_text": "brother",
+        "original_class_id": 107
+    },
+    "38": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "brown",
+        "display_text": "brown",
+        "original_class_id": 79
+    },
+    "39": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "business",
+        "display_text": "business",
+        "original_class_id": 188
+    },
+    "40": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "but",
+        "display_text": "but",
+        "original_class_id": 80
+    },
+    "41": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "buy",
+        "display_text": "buy",
+        "original_class_id": 144
+    },
+    "42": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "call",
+        "display_text": "call",
+        "original_class_id": 145
+    },
+    "43": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "can",
+        "display_text": "can",
+        "original_class_id": 35
+    },
+    "44": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "candy",
+        "display_text": "candy",
+        "original_class_id": 8
+    },
+    "45": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "careful",
+        "display_text": "careful",
+        "original_class_id": 189
+    },
+    "46": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cat",
+        "display_text": "cat",
+        "original_class_id": 108
+    },
+    "47": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "catch",
+        "display_text": "catch",
+        "original_class_id": 265
+    },
+    "48": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "center",
+        "display_text": "center",
+        "original_class_id": 190
+    },
+    "49": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cereal",
+        "display_text": "cereal",
+        "original_class_id": 266
+    },
+    "50": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "chair",
+        "display_text": "chair",
+        "original_class_id": 4
+    },
+    "51": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "champion",
+        "display_text": "champion",
+        "original_class_id": 267
+    },
+    "52": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "change",
+        "display_text": "change",
+        "original_class_id": 54
+    },
+    "53": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "chat",
+        "display_text": "chat",
+        "original_class_id": 191
+    },
+    "54": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cheat",
+        "display_text": "cheat",
+        "original_class_id": 81
+    },
+    "55": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "check",
+        "display_text": "check",
+        "original_class_id": 109
+    },
+    "56": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cheese",
+        "display_text": "cheese",
+        "original_class_id": 268
+    },
+    "57": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "children",
+        "display_text": "children",
+        "original_class_id": 192
+    },
+    "58": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "christmas",
+        "display_text": "christmas",
+        "original_class_id": 193
+    },
+    "59": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "city",
+        "display_text": "city",
+        "original_class_id": 82
+    },
+    "60": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "class",
+        "display_text": "class",
+        "original_class_id": 110
+    },
+    "61": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "clock",
+        "display_text": "clock",
+        "original_class_id": 194
+    },
+    "62": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "close",
+        "display_text": "close",
+        "original_class_id": 195
+    },
+    "63": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "clothes",
+        "display_text": "clothes",
+        "original_class_id": 6
+    },
+    "64": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "coffee",
+        "display_text": "coffee",
+        "original_class_id": 146
+    },
+    "65": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cold",
+        "display_text": "cold",
+        "original_class_id": 147
+    },
+    "66": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "college",
+        "display_text": "college",
+        "original_class_id": 148
+    },
+    "67": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "color",
+        "display_text": "color",
+        "original_class_id": 55
+    },
+    "68": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "computer",
+        "display_text": "computer",
+        "original_class_id": 2
+    },
+    "69": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "convince",
+        "display_text": "convince",
+        "original_class_id": 196
+    },
+    "70": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cook",
+        "display_text": "cook",
+        "original_class_id": 83
+    },
+    "71": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cool",
+        "display_text": "cool",
+        "original_class_id": 20
+    },
+    "72": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "copy",
+        "display_text": "copy",
+        "original_class_id": 149
+    },
+    "73": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "corn",
+        "display_text": "corn",
+        "original_class_id": 56
+    },
+    "74": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cough",
+        "display_text": "cough",
+        "original_class_id": 269
+    },
+    "75": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "country",
+        "display_text": "country",
+        "original_class_id": 197
+    },
+    "76": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cousin",
+        "display_text": "cousin",
+        "original_class_id": 9
+    },
+    "77": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cow",
+        "display_text": "cow",
+        "original_class_id": 57
+    },
+    "78": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "crash",
+        "display_text": "crash",
+        "original_class_id": 198
+    },
+    "79": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "crazy",
+        "display_text": "crazy",
+        "original_class_id": 270
+    },
+    "80": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cry",
+        "display_text": "cry",
+        "original_class_id": 111
+    },
+    "81": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "cute",
+        "display_text": "cute",
+        "original_class_id": 150
+    },
+    "82": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "dance",
+        "display_text": "dance",
+        "original_class_id": 58
+    },
+    "83": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "dark",
+        "display_text": "dark",
+        "original_class_id": 59
+    },
+    "84": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "daughter",
+        "display_text": "daughter",
+        "original_class_id": 151
+    },
+    "85": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "day",
+        "display_text": "day",
+        "original_class_id": 199
+    },
+    "86": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "deaf",
+        "display_text": "deaf",
+        "original_class_id": 10
+    },
+    "87": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "decide",
+        "display_text": "decide",
+        "original_class_id": 84
+    },
+    "88": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "delay",
+        "display_text": "delay",
+        "original_class_id": 271
+    },
+    "89": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "delicious",
+        "display_text": "delicious",
+        "original_class_id": 272
+    },
+    "90": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "different",
+        "display_text": "different",
+        "original_class_id": 112
+    },
+    "91": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "disappear",
+        "display_text": "disappear",
+        "original_class_id": 273
+    },
+    "92": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "discuss",
+        "display_text": "discuss",
+        "original_class_id": 200
+    },
+    "93": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "divorce",
+        "display_text": "divorce",
+        "original_class_id": 274
+    },
+    "94": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "doctor",
+        "display_text": "doctor",
+        "original_class_id": 60
+    },
+    "95": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "dog",
+        "display_text": "dog",
+        "original_class_id": 36
+    },
+    "96": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "door",
+        "display_text": "door",
+        "original_class_id": 113
+    },
+    "97": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "draw",
+        "display_text": "draw",
+        "original_class_id": 275
+    },
+    "98": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "dress",
+        "display_text": "dress",
+        "original_class_id": 201
+    },
+    "99": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "drink",
+        "display_text": "drink",
+        "original_class_id": 1
+    },
+    "100": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "drive",
+        "display_text": "drive",
+        "original_class_id": 202
+    },
+    "101": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "drop",
+        "display_text": "drop",
+        "original_class_id": 203
+    },
+    "102": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "east",
+        "display_text": "east",
+        "original_class_id": 276
+    },
+    "103": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "easy",
+        "display_text": "easy",
+        "original_class_id": 277
+    },
+    "104": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "eat",
+        "display_text": "eat",
+        "original_class_id": 61
+    },
+    "105": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "egg",
+        "display_text": "egg",
+        "original_class_id": 278
+    },
+    "106": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "enjoy",
+        "display_text": "enjoy",
+        "original_class_id": 62
+    },
+    "107": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "environment",
+        "display_text": "environment",
+        "original_class_id": 279
+    },
+    "108": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "example",
+        "display_text": "example",
+        "original_class_id": 152
+    },
+    "109": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "family",
+        "display_text": "family",
+        "original_class_id": 37
+    },
+    "110": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "far",
+        "display_text": "far",
+        "original_class_id": 153
+    },
+    "111": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "fat",
+        "display_text": "fat",
+        "original_class_id": 204
+    },
+    "112": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "father",
+        "display_text": "father",
+        "original_class_id": 280
+    },
+    "113": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "fault",
+        "display_text": "fault",
+        "original_class_id": 281
+    },
+    "114": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "feel",
+        "display_text": "feel",
+        "original_class_id": 205
+    },
+    "115": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "fine",
+        "display_text": "fine",
+        "original_class_id": 11
+    },
+    "116": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "finish",
+        "display_text": "finish",
+        "original_class_id": 21
+    },
+    "117": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "first",
+        "display_text": "first",
+        "original_class_id": 154
+    },
+    "118": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "fish",
+        "display_text": "fish",
+        "original_class_id": 38
+    },
+    "119": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "flower",
+        "display_text": "flower",
+        "original_class_id": 282
+    },
+    "120": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "football",
+        "display_text": "football",
+        "original_class_id": 206
+    },
+    "121": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "forget",
+        "display_text": "forget",
+        "original_class_id": 63
+    },
+    "122": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "friend",
+        "display_text": "friend",
+        "original_class_id": 155
+    },
+    "123": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "friendly",
+        "display_text": "friendly",
+        "original_class_id": 283
+    },
+    "124": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "full",
+        "display_text": "full",
+        "original_class_id": 85
+    },
+    "125": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "future",
+        "display_text": "future",
+        "original_class_id": 207
+    },
+    "126": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "game",
+        "display_text": "game",
+        "original_class_id": 208
+    },
+    "127": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "girl",
+        "display_text": "girl",
+        "original_class_id": 209
+    },
+    "128": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "give",
+        "display_text": "give",
+        "original_class_id": 64
+    },
+    "129": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "glasses",
+        "display_text": "glasses",
+        "original_class_id": 284
+    },
+    "130": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "go",
+        "display_text": "go",
+        "original_class_id": 5
+    },
+    "131": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "good",
+        "display_text": "good",
+        "original_class_id": 156
+    },
+    "132": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "government",
+        "display_text": "government",
+        "original_class_id": 210
+    },
+    "133": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "graduate",
+        "display_text": "graduate",
+        "original_class_id": 39
+    },
+    "134": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "green",
+        "display_text": "green",
+        "original_class_id": 114
+    },
+    "135": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hair",
+        "display_text": "hair",
+        "original_class_id": 115
+    },
+    "136": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "halloween",
+        "display_text": "halloween",
+        "original_class_id": 285
+    },
+    "137": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "happy",
+        "display_text": "happy",
+        "original_class_id": 157
+    },
+    "138": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hard",
+        "display_text": "hard",
+        "original_class_id": 286
+    },
+    "139": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hat",
+        "display_text": "hat",
+        "original_class_id": 40
+    },
+    "140": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "have",
+        "display_text": "have",
+        "original_class_id": 116
+    },
+    "141": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "headache",
+        "display_text": "headache",
+        "original_class_id": 117
+    },
+    "142": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hear",
+        "display_text": "hear",
+        "original_class_id": 211
+    },
+    "143": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hearing",
+        "display_text": "hearing",
+        "original_class_id": 41
+    },
+    "144": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "heart",
+        "display_text": "heart",
+        "original_class_id": 287
+    },
+    "145": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "help",
+        "display_text": "help",
+        "original_class_id": 12
+    },
+    "146": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "here",
+        "display_text": "here",
+        "original_class_id": 212
+    },
+    "147": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "home",
+        "display_text": "home",
+        "original_class_id": 158
+    },
+    "148": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hope",
+        "display_text": "hope",
+        "original_class_id": 213
+    },
+    "149": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hot",
+        "display_text": "hot",
+        "original_class_id": 22
+    },
+    "150": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hour",
+        "display_text": "hour",
+        "original_class_id": 288
+    },
+    "151": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "house",
+        "display_text": "house",
+        "original_class_id": 214
+    },
+    "152": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "how",
+        "display_text": "how",
+        "original_class_id": 86
+    },
+    "153": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "humble",
+        "display_text": "humble",
+        "original_class_id": 289
+    },
+    "154": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "hurry",
+        "display_text": "hurry",
+        "original_class_id": 290
+    },
+    "155": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "husband",
+        "display_text": "husband",
+        "original_class_id": 215
+    },
+    "156": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "improve",
+        "display_text": "improve",
+        "original_class_id": 291
+    },
+    "157": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "inform",
+        "display_text": "inform",
+        "original_class_id": 118
+    },
+    "158": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "interest",
+        "display_text": "interest",
+        "original_class_id": 216
+    },
+    "159": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "internet",
+        "display_text": "internet",
+        "original_class_id": 292
+    },
+    "160": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "jacket",
+        "display_text": "jacket",
+        "original_class_id": 87
+    },
+    "161": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "join",
+        "display_text": "join",
+        "original_class_id": 217
+    },
+    "162": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "jump",
+        "display_text": "jump",
+        "original_class_id": 293
+    },
+    "163": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "kill",
+        "display_text": "kill",
+        "original_class_id": 294
+    },
+    "164": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "kiss",
+        "display_text": "kiss",
+        "original_class_id": 42
+    },
+    "165": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "knife",
+        "display_text": "knife",
+        "original_class_id": 119
+    },
+    "166": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "know",
+        "display_text": "know",
+        "original_class_id": 159
+    },
+    "167": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "language",
+        "display_text": "language",
+        "original_class_id": 43
+    },
+    "168": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "last",
+        "display_text": "last",
+        "original_class_id": 65
+    },
+    "169": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "late",
+        "display_text": "late",
+        "original_class_id": 160
+    },
+    "170": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "later",
+        "display_text": "later",
+        "original_class_id": 44
+    },
+    "171": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "laugh",
+        "display_text": "laugh",
+        "original_class_id": 120
+    },
+    "172": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "law",
+        "display_text": "law",
+        "original_class_id": 295
+    },
+    "173": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "learn",
+        "display_text": "learn",
+        "original_class_id": 121
+    },
+    "174": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "leave",
+        "display_text": "leave",
+        "original_class_id": 161
+    },
+    "175": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "letter",
+        "display_text": "letter",
+        "original_class_id": 88
+    },
+    "176": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "light",
+        "display_text": "light",
+        "original_class_id": 218
+    },
+    "177": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "like",
+        "display_text": "like",
+        "original_class_id": 23
+    },
+    "178": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "list",
+        "display_text": "list",
+        "original_class_id": 162
+    },
+    "179": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "live",
+        "display_text": "live",
+        "original_class_id": 219
+    },
+    "180": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "losear",
+        "display_text": "losear",
+        "original_class_id": 163
+    },
+    "181": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "make",
+        "display_text": "make",
+        "original_class_id": 220
+    },
+    "182": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "man",
+        "display_text": "man",
+        "original_class_id": 45
+    },
+    "183": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "many",
+        "display_text": "many",
+        "original_class_id": 24
+    },
+    "184": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "match",
+        "display_text": "match",
+        "original_class_id": 296
+    },
+    "185": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "mean",
+        "display_text": "mean",
+        "original_class_id": 221
+    },
+    "186": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "meat",
+        "display_text": "meat",
+        "original_class_id": 297
+    },
+    "187": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "medicine",
+        "display_text": "medicine",
+        "original_class_id": 89
+    },
+    "188": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "meet",
+        "display_text": "meet",
+        "original_class_id": 66
+    },
+    "189": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "milk",
+        "display_text": "milk",
+        "original_class_id": 298
+    },
+    "190": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "money",
+        "display_text": "money",
+        "original_class_id": 299
+    },
+    "191": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "more",
+        "display_text": "more",
+        "original_class_id": 222
+    },
+    "192": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "most",
+        "display_text": "most",
+        "original_class_id": 223
+    },
+    "193": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "mother",
+        "display_text": "mother",
+        "original_class_id": 25
+    },
+    "194": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "movie",
+        "display_text": "movie",
+        "original_class_id": 122
+    },
+    "195": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "music",
+        "display_text": "music",
+        "original_class_id": 224
+    },
+    "196": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "name",
+        "display_text": "name",
+        "original_class_id": 164
+    },
+    "197": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "need",
+        "display_text": "need",
+        "original_class_id": 90
+    },
+    "198": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "new",
+        "display_text": "new",
+        "original_class_id": 225
+    },
+    "199": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "no",
+        "display_text": "no",
+        "original_class_id": 13
+    },
+    "200": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "none",
+        "display_text": "none",
+        "original_class_id": 226
+    },
+    "201": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "now",
+        "display_text": "now",
+        "original_class_id": 26
+    },
+    "202": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "office",
+        "display_text": "office",
+        "original_class_id": 227
+    },
+    "203": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "old",
+        "display_text": "old",
+        "original_class_id": 165
+    },
+    "204": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "orange",
+        "display_text": "orange",
+        "original_class_id": 27
+    },
+    "205": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "order",
+        "display_text": "order",
+        "original_class_id": 228
+    },
+    "206": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "paint",
+        "display_text": "paint",
+        "original_class_id": 91
+    },
+    "207": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "pants",
+        "display_text": "pants",
+        "original_class_id": 229
+    },
+    "208": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "paper",
+        "display_text": "paper",
+        "original_class_id": 92
+    },
+    "209": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "party",
+        "display_text": "party",
+        "original_class_id": 230
+    },
+    "210": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "past",
+        "display_text": "past",
+        "original_class_id": 231
+    },
+    "211": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "pencil",
+        "display_text": "pencil",
+        "original_class_id": 232
+    },
+    "212": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "person",
+        "display_text": "person",
+        "original_class_id": 166
+    },
+    "213": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "pink",
+        "display_text": "pink",
+        "original_class_id": 67
+    },
+    "214": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "pizza",
+        "display_text": "pizza",
+        "original_class_id": 68
+    },
+    "215": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "plan",
+        "display_text": "plan",
+        "original_class_id": 233
+    },
+    "216": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "play",
+        "display_text": "play",
+        "original_class_id": 69
+    },
+    "217": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "please",
+        "display_text": "please",
+        "original_class_id": 234
+    },
+    "218": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "police",
+        "display_text": "police",
+        "original_class_id": 167
+    },
+    "219": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "practice",
+        "display_text": "practice",
+        "original_class_id": 235
+    },
+    "220": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "president",
+        "display_text": "president",
+        "original_class_id": 236
+    },
+    "221": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "problem",
+        "display_text": "problem",
+        "original_class_id": 168
+    },
+    "222": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "pull",
+        "display_text": "pull",
+        "original_class_id": 93
+    },
+    "223": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "purple",
+        "display_text": "purple",
+        "original_class_id": 94
+    },
+    "224": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "rabbit",
+        "display_text": "rabbit",
+        "original_class_id": 123
+    },
+    "225": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "read",
+        "display_text": "read",
+        "original_class_id": 124
+    },
+    "226": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "red",
+        "display_text": "red",
+        "original_class_id": 125
+    },
+    "227": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "remember",
+        "display_text": "remember",
+        "original_class_id": 169
+    },
+    "228": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "restaurant",
+        "display_text": "restaurant",
+        "original_class_id": 237
+    },
+    "229": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "ride",
+        "display_text": "ride",
+        "original_class_id": 238
+    },
+    "230": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "right",
+        "display_text": "right",
+        "original_class_id": 95
+    },
+    "231": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "room",
+        "display_text": "room",
+        "original_class_id": 126
+    },
+    "232": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "run",
+        "display_text": "run",
+        "original_class_id": 127
+    },
+    "233": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "russia",
+        "display_text": "russia",
+        "original_class_id": 239
+    },
+    "234": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "salt",
+        "display_text": "salt",
+        "original_class_id": 240
+    },
+    "235": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "same",
+        "display_text": "same",
+        "original_class_id": 96
+    },
+    "236": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "sandwich",
+        "display_text": "sandwich",
+        "original_class_id": 241
+    },
+    "237": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "school",
+        "display_text": "school",
+        "original_class_id": 70
+    },
+    "238": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "secretary",
+        "display_text": "secretary",
+        "original_class_id": 71
+    },
+    "239": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "share",
+        "display_text": "share",
+        "original_class_id": 170
+    },
+    "240": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "shirt",
+        "display_text": "shirt",
+        "original_class_id": 46
+    },
+    "241": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "short",
+        "display_text": "short",
+        "original_class_id": 72
+    },
+    "242": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "show",
+        "display_text": "show",
+        "original_class_id": 128
+    },
+    "243": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "sick",
+        "display_text": "sick",
+        "original_class_id": 129
+    },
+    "244": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "sign",
+        "display_text": "sign",
+        "original_class_id": 242
+    },
+    "245": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "since",
+        "display_text": "since",
+        "original_class_id": 243
+    },
+    "246": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "small",
+        "display_text": "small",
+        "original_class_id": 244
+    },
+    "247": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "snow",
+        "display_text": "snow",
+        "original_class_id": 130
+    },
+    "248": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "some",
+        "display_text": "some",
+        "original_class_id": 245
+    },
+    "249": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "son",
+        "display_text": "son",
+        "original_class_id": 97
+    },
+    "250": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "soon",
+        "display_text": "soon",
+        "original_class_id": 171
+    },
+    "251": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "south",
+        "display_text": "south",
+        "original_class_id": 246
+    },
+    "252": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "stay",
+        "display_text": "stay",
+        "original_class_id": 172
+    },
+    "253": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "student",
+        "display_text": "student",
+        "original_class_id": 247
+    },
+    "254": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "study",
+        "display_text": "study",
+        "original_class_id": 47
+    },
+    "255": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "sunday",
+        "display_text": "sunday",
+        "original_class_id": 173
+    },
+    "256": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "table",
+        "display_text": "table",
+        "original_class_id": 28
+    },
+    "257": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "take",
+        "display_text": "take",
+        "original_class_id": 131
+    },
+    "258": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "tall",
+        "display_text": "tall",
+        "original_class_id": 48
+    },
+    "259": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "tea",
+        "display_text": "tea",
+        "original_class_id": 132
+    },
+    "260": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "teach",
+        "display_text": "teach",
+        "original_class_id": 248
+    },
+    "261": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "teacher",
+        "display_text": "teacher",
+        "original_class_id": 133
+    },
+    "262": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "tell",
+        "display_text": "tell",
+        "original_class_id": 98
+    },
+    "263": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "test",
+        "display_text": "test",
+        "original_class_id": 174
+    },
+    "264": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "thanksgiving",
+        "display_text": "thanksgiving",
+        "original_class_id": 29
+    },
+    "265": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "theory",
+        "display_text": "theory",
+        "original_class_id": 249
+    },
+    "266": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "thin",
+        "display_text": "thin",
+        "original_class_id": 14
+    },
+    "267": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "thursday",
+        "display_text": "thursday",
+        "original_class_id": 99
+    },
+    "268": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "time",
+        "display_text": "time",
+        "original_class_id": 73
+    },
+    "269": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "tired",
+        "display_text": "tired",
+        "original_class_id": 175
+    },
+    "270": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "tomato",
+        "display_text": "tomato",
+        "original_class_id": 250
+    },
+    "271": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "trade",
+        "display_text": "trade",
+        "original_class_id": 176
+    },
+    "272": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "train",
+        "display_text": "train",
+        "original_class_id": 251
+    },
+    "273": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "travel",
+        "display_text": "travel",
+        "original_class_id": 177
+    },
+    "274": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "ugly",
+        "display_text": "ugly",
+        "original_class_id": 252
+    },
+    "275": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "visit",
+        "display_text": "visit",
+        "original_class_id": 100
+    },
+    "276": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "wait",
+        "display_text": "wait",
+        "original_class_id": 101
+    },
+    "277": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "walk",
+        "display_text": "walk",
+        "original_class_id": 15
+    },
+    "278": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "want",
+        "display_text": "want",
+        "original_class_id": 74
+    },
+    "279": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "war",
+        "display_text": "war",
+        "original_class_id": 253
+    },
+    "280": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "water",
+        "display_text": "water",
+        "original_class_id": 102
+    },
+    "281": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "week",
+        "display_text": "week",
+        "original_class_id": 134
+    },
+    "282": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "what",
+        "display_text": "what",
+        "original_class_id": 30
+    },
+    "283": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "where",
+        "display_text": "where",
+        "original_class_id": 254
+    },
+    "284": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "white",
+        "display_text": "white",
+        "original_class_id": 49
+    },
+    "285": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "who",
+        "display_text": "who",
+        "original_class_id": 7
+    },
+    "286": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "why",
+        "display_text": "why",
+        "original_class_id": 135
+    },
+    "287": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "wife",
+        "display_text": "wife",
+        "original_class_id": 103
+    },
+    "288": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "window",
+        "display_text": "window",
+        "original_class_id": 178
+    },
+    "289": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "with",
+        "display_text": "with",
+        "original_class_id": 136
+    },
+    "290": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "woman",
+        "display_text": "woman",
+        "original_class_id": 31
+    },
+    "291": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "work",
+        "display_text": "work",
+        "original_class_id": 75
+    },
+    "292": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "write",
+        "display_text": "write",
+        "original_class_id": 137
+    },
+    "293": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "wrong",
+        "display_text": "wrong",
+        "original_class_id": 50
+    },
+    "294": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "year",
+        "display_text": "year",
+        "original_class_id": 16
+    },
+    "295": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "yellow",
+        "display_text": "yellow",
+        "original_class_id": 104
+    },
+    "296": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "yes",
+        "display_text": "yes",
+        "original_class_id": 17
+    },
+    "297": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "yesterday",
+        "display_text": "yesterday",
+        "original_class_id": 138
+    },
+    "298": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "you",
+        "display_text": "you",
+        "original_class_id": 179
+    },
+    "299": {
+        "language": "ASL",
+        "dataset": "WLASL300",
+        "gloss": "your",
+        "display_text": "your",
+        "original_class_id": 255
+    }
+}
